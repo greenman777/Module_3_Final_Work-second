@@ -1,0 +1,16 @@
+2023-01-04 16:37:59,340 INFO g.s.HelloServlet [http-nio-8080-exec-5] User Name is: Karl
+2023-01-04 16:37:59,382 INFO g.s.HelloServlet [http-nio-8080-exec-5] User`s Session iD: ACFC3279C1C62F24763E822B48397C3F
+2023-01-04 16:37:59,383 INFO g.s.HelloServlet [http-nio-8080-exec-5] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2023-01-04 16:38:01,430 WARN g.s.HelloServlet [http-nio-8080-exec-5] request and response org.apache.catalina.connector.RequestFacade@2da5b236org.apache.catalina.connector.ResponseFacade@4d247e2d
+2023-01-04 16:38:15,543 INFO g.s.HelloServlet [http-nio-8080-exec-2] User Name is: Karl
+2023-01-04 16:38:15,545 INFO g.s.HelloServlet [http-nio-8080-exec-2] User`s Session iD: ACFC3279C1C62F24763E822B48397C3F
+2023-01-04 16:38:15,546 INFO g.s.HelloServlet [http-nio-8080-exec-2] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2023-01-04 16:38:15,550 WARN g.s.HelloServlet [http-nio-8080-exec-2] request and response org.apache.catalina.connector.RequestFacade@2da5b236org.apache.catalina.connector.ResponseFacade@4d247e2d
+2023-01-04 16:38:23,304 INFO g.s.HelloServlet [http-nio-8080-exec-4] User Name is: Karl
+2023-01-04 16:38:23,305 INFO g.s.HelloServlet [http-nio-8080-exec-4] User`s Session iD: ACFC3279C1C62F24763E822B48397C3F
+2023-01-04 16:38:23,305 INFO g.s.HelloServlet [http-nio-8080-exec-4] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2023-01-04 16:38:23,310 WARN g.s.HelloServlet [http-nio-8080-exec-4] request and response org.apache.catalina.connector.RequestFacade@2da5b236org.apache.catalina.connector.ResponseFacade@4d247e2d
+2023-01-04 16:38:35,190 INFO g.s.HelloServlet [http-nio-8080-exec-7] User Name is: Karl
+2023-01-04 16:38:35,190 INFO g.s.HelloServlet [http-nio-8080-exec-7] User`s Session iD: ACFC3279C1C62F24763E822B48397C3F
+2023-01-04 16:38:35,190 INFO g.s.HelloServlet [http-nio-8080-exec-7] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2023-01-04 16:38:35,196 WARN g.s.HelloServlet [http-nio-8080-exec-7] request and response org.apache.catalina.connector.RequestFacade@2da5b236org.apache.catalina.connector.ResponseFacade@4d247e2d
